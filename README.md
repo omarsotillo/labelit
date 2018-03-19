@@ -3,7 +3,7 @@
 
 <div align="center">
 <br>
-<img width="100" src="/docs/images/Labelit.png" alt="Labelit">
+<img width="200" src="/docs/images/Labelit.png" alt="Labelit">
 <br>
 <br>
 </div>
@@ -37,7 +37,8 @@ $ npm install
 To develop:
 
 ```bash
-$ npm run dev```
+$ npm run dev
+ ```
 
 To build for production:
 
@@ -54,3 +55,17 @@ $ npm run lint
 
 ---
 
+
+## Authors
+
+* **Omar Sotillo** - *Initial work* - [Omar Sotillo](https://github.com/omarsotillo)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used and wonderfully programm the libraries used here :D
