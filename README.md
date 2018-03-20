@@ -1,5 +1,6 @@
-# labelit
+# Labelit
 
+WORK IN PROGRESS! 
 
 <div align="center">
 <br>
