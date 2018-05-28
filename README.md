@@ -20,7 +20,7 @@ Share labels of Github Issues in a flash in a simple and visual way.
 
 <div align="center">
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard) [![Greenkeeper badge](https://badges.greenkeeper.io/omarsotillo/labelit.svg)](https://greenkeeper.io/)
 </div>
 
 ## Overview
